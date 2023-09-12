@@ -32,7 +32,7 @@ To begin using mamhack, follow our [Installation Guide](link_to_installation_gui
 
 **Contributing:**
 
-We welcome contributions from the community. Whether it's bug fixes, new features, or improvements to existing ones, your contributions help make mamhack even more valuable. Check out our [Contributing Guidelines](link_to_contributing_guidelines) to get started.
+We welcome contributions from the community. Whether it's bug fixes, new features, or improvements to existing ones, your contributions help make mamhack even more valuable. Check out our Comming soon(link_to_contributing_guidelines) to get started.
 
 **Stay Connected:**
 
