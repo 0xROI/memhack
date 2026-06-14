@@ -36,7 +36,7 @@ We welcome contributions from the community. Whether it's bug fixes, new feature
 
 **Stay Connected:**
 
-Join our community on [Twitter](0xROI_), [Discord](https://discord.gg/5mGW4PCN) to stay updated, ask questions, and engage with fellow users.
+Join our community on [Discord](https://discord.gg/5mGW4PCN) to stay updated, ask questions, and engage with fellow users.
 
 **License:**
 
