@@ -1,4 +1,4 @@
-**This tool's is now Under Development.**
+**This tool's is now Under Development. DONT USE THIS (I MEAN YOUR AT YOUR OWN RISK:-)**
 
 **Tool Name: mamhack**
 
@@ -36,10 +36,7 @@ We welcome contributions from the community. Whether it's bug fixes, new feature
 
 **Stay Connected:**
 
-Join our community on [Twitter](0xROI_), [Discord](link_to_discord), and [GitHub Discussions](link_to_github_discussions) to stay updated, ask questions, and engage with fellow users.
-
-[![GitHub Stars](https://img.shields.io/github/stars/your-organization/your-repo.svg?style=flat&label=Star)](link_to_github_repo)
-[![GitHub Forks](https://img.shields.io/github/forks/your-organization/your-repo.svg?style=flat&label=Fork)](link_to_github_repo)
+Join our community on [Twitter](0xROI_), [Discord](https://discord.gg/5mGW4PCN) to stay updated, ask questions, and engage with fellow users.
 
 **License:**
 
