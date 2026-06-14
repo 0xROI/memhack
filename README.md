@@ -2,7 +2,7 @@
 
 **Tool Name: mamhack**
 
-![Tool Logo](link_to_tool_logo.png)
+![Tool Logo](https://github.com/0xROI/memhack/blob/main/logo/helloWorld.png)
 
 mamhack is a powerful and flexible dynamic vulnerability analysis tool designed to help security professionals and developers identify and mitigate security issues in C and C++ source code. With a focus on accuracy and usability, our tool provides a comprehensive set of features to enhance your code security analysis process.
 
