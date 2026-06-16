@@ -28,6 +28,26 @@ Whether you're a security professional auditing code for vulnerabilities or a de
 
 **Getting Started:**
 
+## User Commands
+
+```bash
+# Run with all features
+python main.py /path/to/source --sanitizer asan --output-format html -v
+
+# Run with verification only (skip symbolic/taint)
+python main.py /path/to/source --skip-symbolic --skip-taint
+
+# JSON output for automation
+python main.py /path/to/source --output-format json
+
+# Change output directory
+python main.py /path/to/source --report-dir ./my_reports
+
+# Adjust runtime execution
+python main.py /path/to/source --max-runs 100 --run-timeout 10
+```
+
+
 To begin using mamhack, follow our [Installation Guide](link_to_installation_guide) and consult the [Documentation](link_to_documentation) for detailed usage instructions.
 
 **Contributing:**
